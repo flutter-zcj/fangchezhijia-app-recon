@@ -1,0 +1,166 @@
+{
+  "query": "房车之家",
+  "generated_at": "2026-11-01 15:19:59 +0800",
+  "channels": [
+    "baidu",
+    "yyb",
+    "wandoujia",
+    "pp"
+  ],
+  "conclusion": "存在且唯一：包名 com.bolian.motorhome，主体为挂车之家（北京）信息技术有限公司（京ICP备19026670号-33，官网 fangchezhijia.net.cn）。安卓原生 APK，四个渠道均有有效直链，豌豆荚/PP助手版本最新（2.0.7，2026-10-28 更新）。",
+  "official": {
+    "name": "房车之家",
+    "package": "com.bolian.motorhome",
+    "developer": "挂车之家（北京）信息技术有限公司",
+    "icp": "京ICP备19026670号-33",
+    "official_site": "http://www.fangchezhijia.net.cn",
+    "backend_domains": [
+      "fangchezhijia.net.cn",
+      "fangchewang.net.cn",
+      "fcjh.fangchezhijia.net.cn"
+    ],
+    "form": "安卓原生 App（Flutter 混合，含高德地图/支付宝 SDK），有独立 APK；iOS 未见独立上架线索",
+    "latest_version": "2.0.7 (vcode 207)",
+    "latest_size": "76.92MB",
+    "apk_md5": "fa779669e2c3755c8abf98a13c04858c",
+    "download_url": "https://ucdl.25pp.com/fs08/2026/10/30/11/110_1d699b7391c795443ec4f66d5192c767.apk?nrd=0&fname=%E6%88%BF%E8%BD%A6&productid=2011&packageid=501484521&pkg=com.bolian.motorhome&vcode=207&appid=8112308&md5=fa779669e2c3755c8abf98a13c04858c",
+    "download_type": "apk",
+    "launch_url": "https://m.wandoujia.com/apps/8112308",
+    "icon": "https://android-artworks.25pp.com/fs08/2026/10/30/4/110_fd2b6254956dc24a9b9e19ef58a44c57_con_130x130.png",
+    "screenshots": [
+      "https://android-screenimgs.25pp.com/fs08/2026/10/30/2/110_6fbf021609f6827643cf5752054e130a_234x360.jpg",
+      "https://android-screenimgs.25pp.com/fs08/2026/10/30/9/110_a687b11d6038b5d24d75184680a263d0_234x360.jpg",
+      "https://android-screenimgs.25pp.com/fs08/2026/10/30/1/110_b2070c12a59f93fe477283407f69cb75_234x360.jpg",
+      "https://android-screenimgs.25pp.com/fs08/2026/10/30/1/110_6d541a8d50f74781e0f33f1b241848d2_234x360.jpg"
+    ],
+    "description": "房车之家是面向全国房车爱好者打造的「房车媒体 + 交易 + 社区」一站式 APP。核心板块：①海量车型库（自行式A/B/C型、皮卡/轻卡/重卡房车、宿营车、拖挂房车），实时官方报价与行情；②二手房车交易，个人车主与车商发布车源，按价格/年份/底盘/地区筛选；③房车租赁共享，车主可上架闲置房车出租；④原创评测、展会直播、改装案例等内容资讯；⑤车友社区圈子（地区/品牌/车型社区）；⑥营地、自驾路线、旅居攻略等出行配套。",
+    "changelog": "2.0.7 版本说明：平台面向全国房车爱好者、个人车主与房车商户，搭建二手房车线上信息对接渠道，覆盖自行式A/B/C型、皮卡/轻卡/重卡房车、宿营车、拖挂房车全品类，可按车型、预算、地区筛选真实车源，在线咨询卖家。",
+    "note": "各渠道 APK 内置后端的正式域名与官网一致，AndroidManifest 中的应用名（label）经二进制核验为「房车之家」，可判定为正版。"
+  },
+  "stores": [
+    {
+      "store": "豌豆荚",
+      "name": "房车（列表名，详情内称房车之家）",
+      "version": "2.0.7",
+      "size": "76.92MB",
+      "updated": "2026-10-30",
+      "detail_url": "https://m.wandoujia.com/apps/8112308",
+      "download_url": "https://ucdl.25pp.com/fs08/2026/10/30/11/110_1d699b7391c795443ec4f66d5192c767.apk?nrd=0&fname=%E6%88%BF%E8%BD%A6&pkg=com.bolian.motorhome&vcode=207&appid=8112308&md5=fa779669e2c3755c8abf98a13c04858c",
+      "download_check": {
+        "checked": true,
+        "http_status": 206,
+        "content_type": "application/vnd.android.package-archive",
+        "total_bytes": 80657814,
+        "total_mb": 76.92,
+        "magic": "PK\\u0003\\u0004",
+        "is_zip_apk": true,
+        "md5_match": true
+      }
+    },
+    {
+      "store": "PP助手",
+      "name": "房车（同上，同一 appid 8112308）",
+      "version": "2.0.7",
+      "size": "76.92MB",
+      "updated": "2026-10-28",
+      "detail_url": "https://www.25pp.com/xiazai/8112308/",
+      "download_url": "http://android-apps.25pp.com/fs08/2026/10/30/11/110_1d699b7391c795443ec4f66d5192c767.apk?yingid=web_space&packageid=501484521&md5=fa779669e2c3755c8abf98a13c04858c&minSDK=24&size=80657814",
+      "download_check": {
+        "checked": true,
+        "http_status": 206,
+        "content_type": "application/vnd.android.package-archive",
+        "total_bytes": 80657814,
+        "total_mb": 76.92,
+        "magic": "PK\\u0003\\u0004",
+        "is_zip_apk": true
+      }
+    },
+    {
+      "store": "百度手机助手",
+      "name": "房车之家",
+      "version": "1.8.7",
+      "size": "111.62MB",
+      "updated": "2026-10-15",
+      "score": 4.0,
+      "downloads": "3万下载",
+      "detail_url": "https://shouji.baidu.com/app/5016030215",
+      "download_url": "https://gdown.baidu.com/appcenter/pkg/upload/2dc83bd767f91aba55f59e2f994a73e3?prodid=1",
+      "download_check": {
+        "checked": true,
+        "http_status": 206,
+        "content_type": "application/octet-stream",
+        "total_bytes": 117051661,
+        "total_mb": 111.62,
+        "magic": "PK\\u0003\\u0004",
+        "is_zip_apk": true,
+        "final_url": "https://sz2-gdown.baidu.com/appcenter/pkg/upload/2dc83bd767f91aba55f59e2f994a73e3?md5hash=339268c05c87e3ca46ed60a73e75a3e0"
+      }
+    },
+    {
+      "store": "应用宝",
+      "name": "房车之家",
+      "version": "1.8.4",
+      "size": "46.52MB",
+      "updated": "2025-12-27",
+      "downloads": 23259,
+      "tags": "汽车交易",
+      "detail_url": "https://sj.qq.com/appdetail/com.bolian.motorhome",
+      "download_url": "http://imtt.dd.qq.com/sjy.00022/sjy.00004/16891/apk/46630C532E358376609A3260B4AE4BE3.apk?fsname=com.bolian.motorhome_1.8.4.apk",
+      "download_check": {
+        "checked": true,
+        "http_status": 206,
+        "content_type": "application/vnd.android.package-archive",
+        "total_bytes": 48783963,
+        "total_mb": 46.52,
+        "magic": "PK\\u0003\\u0004",
+        "is_zip_apk": true,
+        "note": "原始 imtt2.dd.qq.com 节点返回 567，已按 a.app.qq.com/o/simple.jsp 重新解析到 imtt.dd.qq.com"
+      }
+    }
+  ],
+  "clones_count": 0,
+  "clones": [],
+  "similar_apps": [
+    {
+      "name": "房车网",
+      "package": "fangchewang.net.cn",
+      "developer": "挂车之家（北京）信息技术有限公司",
+      "note": "同一主体的姊妹产品，域名式包名，独立 App（1.8.7 / 80.91MB），主打房车交易；非山寨，但非「房车之家」本体"
+    },
+    {
+      "name": "房车猫",
+      "package": "com.moke.rv",
+      "developer": "成都魔木科技有限公司",
+      "note": "媒体+报价+二手车，定位相近的竞品"
+    },
+    {
+      "name": "爱旅房车",
+      "package": "com.benben.loverv",
+      "developer": "海南爱旅房车俱乐部有限公司",
+      "note": "俱乐部型用房/改装/交友"
+    },
+    {
+      "name": "房车潮惠玩",
+      "package": "com.upyuns.chwapp",
+      "developer": "广东升云信息科技有限公司",
+      "note": "租车/营地为主"
+    },
+    {
+      "name": "房车报价大全",
+      "package": "net.rvhome.app",
+      "developer": "江西越动体育文化发展有限公司",
+      "note": "报价资讯类轻应用"
+    },
+    {
+      "name": "房车宝",
+      "package": "com.fcb.bao.consumer",
+      "developer": "深圳市房车宝信息科技有限公司",
+      "note": "房产+汽车交易平台，名字近似但不相干"
+    }
+  ],
+  "risks": [
+    "版本号各渠道不统一（1.8.4 / 1.8.7 / 2.0.7），包体 46.5MB~111.6MB 差异明显，说明多渠道分构建发布，非同一产物；建议以豌豆荚/PP 的 2.0.7 为准。",
+    "APK 内 Flutter 产物中仍硬编码测试域名 test-fczj-api.fangchezhijia.net.cn（出现 46 次），发版配置不够干净。",
+    "酷安（需 X-App-Token）、华为/小米商店未纳入本轮渠道，覆盖度为 4/5 通道。"
+  ]
+}
